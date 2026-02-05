@@ -37,11 +37,11 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 
-```
- **Developed By:ALAN ZION H**
+
+**Developed By:ALAN ZION H**
 **Register Number: 212223240004**
 
-```
+
 
 
 ## i)Original image
